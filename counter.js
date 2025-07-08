@@ -1,0 +1,1 @@
+sessionStorage.setItem(setInterval,counter:1000)
